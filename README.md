@@ -58,12 +58,3 @@ This project was developed based on the Python Crash Course curriculum by Eric M
 Author: Aman Pausker
 
 ---
-
-### 💡 How to create the file:
-
-1. Open any text editor (VS Code, Notepad, or TextEdit).
-2. Paste the code above into a new file.
-3. Save the file as `README.md` (make sure it doesn't end in `.txt`).
-4. Upload it to your GitHub repository, and GitHub will automatically format it beautifully!
-
-Since you've got the code and the post ready, are you planning to add any custom fe
