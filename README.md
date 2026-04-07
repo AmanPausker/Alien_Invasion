@@ -55,7 +55,7 @@ Q: Quit game.
 📜 Credits
 This project was developed based on the Python Crash Course curriculum by Eric Matthes, featuring custom architectural refinements for state management and UI.
 
-Author: [Your Name]
+Author: Aman Pausker
 
 ---
 
