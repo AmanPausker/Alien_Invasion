@@ -1,5 +1,9 @@
 # Alien Invasion 👾
 
+
+https://github.com/user-attachments/assets/d508ac66-684d-46c7-933c-cdc622d0d037
+
+
 A feature-rich, 2-D arcade shooter built with **Python** and the **Pygame** library. This project implements a modular, object-oriented approach to game development, featuring dynamic difficulty scaling, state management, and real-time collision physics.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
